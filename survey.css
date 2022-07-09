@@ -1,0 +1,54 @@
+#description{
+    font-size:10px;
+    word-spacing: 1px;
+    font-family: Verdana;
+    margin: 50px auto;
+
+    } 
+     .form {
+        background-color:white;
+        max-width: 800px;
+        max-height: 800px;
+        margin: 50px auto;
+        }
+         .main{
+display: block;
+height:700px;
+width: 490px;
+border: 1px blue;
+border-radius: 2px;
+    margin: 2px;
+padding: 3px;
+background-color: lightblue;
+}
+#priya{
+padding: 20px;
+box-shadow: 10px 7px 15px grey, red 0px 0px 3px inset;
+}
+
+.input{
+width:480px;
+height:20px;
+border-radius:5px;
+border-color: black; 
+} 
+.preety{
+width:480px;
+height:30px;
+border-radius:5px;
+border-color: black; 
+border-width:2px;
+}     
+.supriya{
+width:480px;
+height:30px;
+border-radius:5px;
+border-color: black; 
+border-width:2px;
+
+}
+.supriya:hover{
+
+background-color: lightgreen;
+color: black;
+}
